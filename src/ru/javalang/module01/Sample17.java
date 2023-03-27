@@ -13,7 +13,7 @@ public class Sample17 {
         System.out.print("Введите строку: ");
 
         // Использование функции считывания строки с одновременным созданием объекта
-        String s = new Scanner(System.in).next();
+        String s = new Scanner(System.in).nextLine();
 
         System.out.println("Строка: " + s);
     }

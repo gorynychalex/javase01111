@@ -6,7 +6,7 @@ import java.io.IOException;
  * Пример ввода символа при помощи метода System.in.read()
  */
 
-public class Sample14 {
+class Sample14 {
     public static void main(String[] args) {
 
         //Объявление переменных

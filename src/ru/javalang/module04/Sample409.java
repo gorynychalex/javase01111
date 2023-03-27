@@ -7,6 +7,6 @@ public class Sample409 {
     public static void main(String[] args) {
         Object x[] = new String[3];
         // попытка поместить в массив содержимое 				//несоответствующего типа
-        x[0] = new Integer(0);
+//        x[0] = new Integer(0);
     }
 }

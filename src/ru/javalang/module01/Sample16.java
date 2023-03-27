@@ -16,7 +16,7 @@ public class Sample16 {
         System.out.print("Введите строку: ");
 
         // Использование функции считывания строки
-        String s = in.next();
+        String s = in.nextLine();
 
         System.out.println("Строка: " + s);
     }
